@@ -2,6 +2,7 @@
 
 -- Change XX to FA for Fall or SP for Spring Semester.
 -- Change netID for your own netID
+-- Change the values in the insert statement to your first and last name
 
 use it330mc_XXYY_netID;
 
